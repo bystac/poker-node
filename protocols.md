@@ -23,10 +23,10 @@ to be determined, I really don't care about this, not intresting topics.
 __Databases/Storage__ 
 
 My first though wa *yeah lets use mongodb* but then I rethink we have to have ACID, so MariaDB or PostgreSQL better 
-suited, in front of them ti handlle all the traffic and events I'll be using the great Redis.
+suited, in front of them. To handlle all the traffic and events I'll be using the great Redis storage.
 
 
 __Question to think about__
 * language support?
 * currency support?
-* Play money? real money? switch?
+* Play money? real money? switch account?
